@@ -1,11 +1,11 @@
 h1 {
 	font-size:2.3;
 	text-align:center;
-	color: #FF0001;
+	color: #FF0000;
 }
 
 div.scrollmenu a {
-	backround-color: red
+	backround-color: #333;
 	overflow: auto;
 	red-space:nowrap;
 }
